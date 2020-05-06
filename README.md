@@ -1,0 +1,3 @@
+# Game Resource Images
+
+**Description:** Reference images for a AAA game in Bangladesh setting (prefereably on 1971 liberation war). I have gathered a range of images from online and where possible mentioned the sources in the file name. All the images are collected for educational purposes. You can use them freely as long as they are non-commercial purposes and cite the original owner when information is available. The images are categorised into folders based on their main theme.
